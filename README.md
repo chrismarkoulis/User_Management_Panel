@@ -1,5 +1,4 @@
 ﻿## User Management Panel built with React
-(*npm install, npm start to launch the application!)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
